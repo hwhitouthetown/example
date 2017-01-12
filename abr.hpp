@@ -33,14 +33,35 @@ class Abr{
 
 		int profondeur (Noeud* & node);
 		bool ajouter(Noeud*& node, int val);
-		bool ajouterNoeud(Noeud*& node, Noeud*& nodeToAdd);
-		bool supprimer(Noeud*& node, int val);
-		void suppriMax(Noeud* &node,int * y);
-		void afficher(Noeud* p);
-		bool isEquilibre(Noeud* & node);
-		bool isRoot(Noeud* c);
+
 		string to_String(Noeud* c);
 		bool abrBienRempli(Noeud* c,vector<int> values,bool res,int min,int max);
+
+			bool ajouter(Noeud*& node, int val);
+
+		string to_String(Noeud* c);
+			bool ajouter(Noeud*& node, int val);
+
+		string to_String(Noeud* c);
+
+			bool ajouter(Noeud*& node, int val);
+
+		string to_String(Noeud* c);
+		v
+			bool ajouter(Noeud*& node, int val);
+
+		string to_String(Noeud* c);
+			bool ajouter(Noeud*& node, int val);
+
+		string to_String(Noeud* c);
+			bool ajouter(Noeud*& node, int val);
+
+		string to_String(Noeud* c);
+			bool ajouter(Noeud*& node, int val);
+
+		string to_String(Noeud* c);
+		v
+		
 };
 
 #include "abr.tpp"
